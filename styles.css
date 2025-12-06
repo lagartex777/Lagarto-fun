@@ -1,0 +1,30 @@
+body {
+  background: #111;
+  color: #fff;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 20px;
+}
+h1 { font-size: 40px; margin-bottom: 30px; }
+.game-section {
+  background: #222;
+  padding: 20px;
+  margin: 20px auto;
+  border-radius: 10px;
+  width: 90%;
+  max-width: 400px;
+}
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+#reaction-area {
+  width: 100%;
+  height: 120px;
+  background: #333;
+  margin-top: 10px;
+  border-radius: 10px;
+}
